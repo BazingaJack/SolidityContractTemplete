@@ -1,0 +1,6 @@
+[submodule "EduContractTemplete"]
+	path = EduContractTemplete
+	url = https://github.com/BazingaJack/EduContractTemplete.git
+[submodule "medical-contract-templete"]
+	path = medical-contract-templete
+	url = https://github.com/BazingaJack/medical-contract-templete.git
